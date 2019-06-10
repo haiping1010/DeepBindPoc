@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0516
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9343
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5991
+HEADER 5  - Mean B-factor of pocket residues  : 0.5232
+HEADER 6  - Hydrophobicity Score              : 11.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.9741
+HEADER 10  -Pocket volume (convex hull)       : 5.4261
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    163   CD GLU A  22      17.104  94.766  50.876  0.00  0.00           C 0
+ATOM    639  CE1 TYR A  83      19.780  97.524  48.810  0.00  0.00           C 0
+ATOM    629  OG1 THR A  82      17.434  96.413  44.438  0.00  0.00           O 0
+ATOM    165  OE2 GLU A  22      16.123  95.327  50.347  0.00  0.00           O 0
+ATOM    164  OE1 GLU A  22      17.104  93.558  51.202  0.00  0.00           O 0
+ATOM    131  ND2 ASN A  18      22.635  90.981  46.957  0.44  8.75           N 0
+ATOM    624    N THR A  82      19.852  95.700  43.281  0.47  3.28           N 0
+ATOM    637  CD1 TYR A  83      20.803  97.034  48.027  0.00  0.00           C 0
+ATOM    628   CB THR A  82      18.602  97.160  44.798  0.00  0.00           C 0
+ATOM    161   CB GLU A  22      19.553  94.762  51.554  0.00  0.00           C 0
+ATOM    162   CG GLU A  22      18.345  95.597  51.142  0.00  0.00           C 0
+ATOM    127    O ASN A  18      21.413  92.019  51.128  0.40  2.14           O 0
+ATOM    128   CB ASN A  18      22.116  89.684  48.915  0.00  0.00           C 0
+ATOM    631    N TYR A  83      21.702  97.082  44.949  0.00  0.00           N 0
+ATOM    126    C ASN A  18      21.622  90.801  51.091  0.00  0.00           C 0
+ATOM    132    N ALA A  19      20.901  89.932  51.800  0.86  3.28           N 0
+TER
+END

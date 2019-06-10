@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0609
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9083
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6585
+HEADER 5  - Mean B-factor of pocket residues  : 0.5745
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.6012
+HEADER 10  -Pocket volume (convex hull)       : 0.2538
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  16580   CB MET F 272     -17.718  52.066 106.124  0.00  0.00           C 0
+ATOM  16581   CG MET F 272     -17.612  53.087 104.999  0.00  0.00           C 0
+ATOM  16582   SD MET F 272     -19.034  53.079 103.886  0.00  0.00           S 0
+ATOM  16611  OD1 ASN F 276     -19.403  55.780 111.073  0.00  0.00           O 0
+ATOM  16626  CG2 THR F 278     -17.276  57.205 103.699  0.00  0.00           C 0
+ATOM  16613    N THR F 277     -15.718  55.746 108.806  0.00  0.00           N 0
+ATOM  16615    C THR F 277     -15.280  56.153 106.467  0.00  0.00           C 0
+ATOM  16614   CA THR F 277     -15.379  56.789 107.849  0.00  0.00           C 0
+ATOM  16616    O THR F 277     -15.478  54.947 106.303  0.00  0.00           O 0
+ATOM  16607    C ASN F 276     -16.455  55.992 109.887  0.00  0.00           C 0
+ATOM  16608    O ASN F 276     -16.850  57.125 110.168  0.00  0.00           O 0
+ATOM  16577   CA MET F 272     -16.676  52.248 107.230  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0156
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9012
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5279
+HEADER 5  - Mean B-factor of pocket residues  : 0.3900
+HEADER 6  - Hydrophobicity Score              : 13.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.0499
+HEADER 10  -Pocket volume (convex hull)       : 14.2423
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM  16771   SD MET F 296      -1.553  72.682  90.761  0.00  0.00           S 0
+ATOM  16745    N SER F 293       0.120  68.557  94.146  0.00  0.00           N 0
+ATOM  16741   NE ARG F 292      -4.939  70.497  92.665  0.00  0.00           N 0
+ATOM  16738   CB ARG F 292      -2.782  68.431  92.867  0.00  0.00           C 0
+ATOM  16736    C ARG F 292      -0.281  68.575  92.872  0.00  0.00           C 0
+ATOM  16750   OG SER F 293       0.287  69.720  96.793  0.69  5.36           O 0
+ATOM  16746   CA SER F 293       1.251  69.371  94.579  0.00  0.00           C 0
+ATOM  15347    O GLU F  86       4.623  73.580  97.724  0.51  8.57           O 0
+ATOM  16749   CB SER F 293       1.431  69.261  96.095  0.00  0.00           C 0
+ATOM  16716  CE1 HIS F 289      -2.014  70.355  99.290  0.00  0.00           C 0
+ATOM  16714  ND1 HIS F 289      -2.972  69.651  98.712  0.50  6.56           N 0
+ATOM  16744  NH2 ARG F 292      -5.628  72.385  93.786  0.00  0.00           N 0
+ATOM  16711    O HIS F 289      -1.628  67.522  96.296  0.00  0.00           O 0
+ATOM  16769   CB MET F 296       1.081  71.894  90.421  0.00  0.00           C 0
+ATOM  16768    O MET F 296       3.910  72.758  89.179  0.32  5.36           O 0
+ATOM  15349   CG GLU F  86       5.977  75.708  93.983  0.00  0.00           C 0
+ATOM  16767    C MET F 296       3.528  71.809  89.870  0.00  0.00           C 0
+ATOM  16772   CE MET F 296      -0.904  74.352  90.694  0.00  0.00           C 0
+ATOM  15348   CB GLU F  86       5.695  74.655  95.044  0.00  0.00           C 0
+ATOM  16748    O SER F 293       3.263  69.807  93.337  0.62  1.07           O 0
+ATOM  16773    N CYS F 297       4.281  71.273  90.832  0.72  1.09           N 0
+TER
+END

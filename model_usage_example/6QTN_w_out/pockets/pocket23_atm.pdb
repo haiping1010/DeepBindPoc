@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0097
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9742
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6695
+HEADER 5  - Mean B-factor of pocket residues  : 0.6853
+HEADER 6  - Hydrophobicity Score              : 17.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.6927
+HEADER 10  -Pocket volume (convex hull)       : 7.4857
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  16985   CB ASP F 322       0.143  57.207 110.361  0.00  0.00           C 0
+ATOM  15898    N LYS F 188       4.016  54.084 113.444  0.62  1.09           N 0
+ATOM  15901    O LYS F 188       0.944  54.672 112.289  0.63  2.14           O 0
+ATOM  15885   CB LEU F 186       5.386  55.674 109.070  0.00  0.00           C 0
+ATOM  15902   CB LYS F 188       2.107  54.950 114.729  0.00  0.00           C 0
+ATOM  16988  OD2 ASP F 322       0.069  59.550 110.711  0.00  0.00           O 0
+ATOM  15865   CG LYS F 184       9.930  59.207 110.646  0.00  0.00           C 0
+ATOM  15888  CD2 LEU F 186       5.992  58.073 108.616  0.00  0.00           C 0
+ATOM  17042  CZ2 TRP F 328       3.202  61.741 109.130  0.00  0.00           C 0
+ATOM  17044  CH2 TRP F 328       4.125  62.709 108.843  0.00  0.00           C 0
+ATOM  15882   CA LEU F 186       6.493  55.516 110.114  0.00  0.00           C 0
+ATOM  15889    N GLU F 187       6.514  54.557 112.354  0.54  6.56           N 0
+ATOM  15866   CD LYS F 184      10.329  58.225 111.733  0.00  0.00           C 0
+ATOM  17039  NE1 TRP F 328       2.013  59.774 108.120  0.00  0.00           N 0
+ATOM  15872    O TYR F 185       8.963  55.348 111.376  0.00  0.00           O 0
+ATOM  15894   CG GLU F 187       8.610  54.256 114.353  0.00  0.00           C 0
+TER
+END

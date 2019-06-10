@@ -1,0 +1,68 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0538
+HEADER 1  - Drug Score                        : 0.8835
+HEADER 2  - Number of alpha spheres           :    80
+HEADER 3  - Mean alpha-sphere radius          : 3.8320
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4332
+HEADER 5  - Mean B-factor of pocket residues  : 0.4401
+HEADER 6  - Hydrophobicity Score              : 5.6250
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 689.5870
+HEADER 10  -Pocket volume (convex hull)       : 234.0769
+HEADER 11 - Charge Score                      :     5
+HEADER 12 - Local hydrophobic density Score   : 29.9545
+HEADER 13 - Number of apolar alpha sphere     :    44
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM  14924   CG ASP F  33      15.870  51.206  64.956  0.00  0.00           C 0
+ATOM   3071  CE1 HIS A 393      19.219  57.001  64.616  0.00  0.00           C 0
+ATOM   3108  CD2 LEU A 397      19.617  54.799  60.627  0.00  0.00           C 0
+ATOM  14923   CB ASP F  33      15.253  52.093  63.893  0.00  0.00           C 0
+ATOM  14926  OD2 ASP F  33      16.355  50.109  64.605  0.27  8.57           O 0
+ATOM   3081   NZ LYS A 394      17.206  65.287  59.082  0.44  5.47           N 0
+ATOM  15096   CB HIS F  54      13.062  67.142  63.933  0.00  0.00           C 0
+ATOM   3043   NE ARG A 390      16.999  67.856  64.478  0.76  1.09           N 0
+ATOM   3046  NH2 ARG A 390      16.510  69.193  62.675  0.33  4.37           N 0
+ATOM  15079  NH2 ARG F  51      17.123  57.779  67.390  0.39  8.75           N 0
+ATOM  14920   CA ASP F  33      13.925  52.710  64.340  0.00  0.00           C 0
+ATOM  14922    O ASP F  33      14.067  54.464  62.729  0.68  6.43           O 0
+ATOM   3072  NE2 HIS A 393      18.336  57.648  63.878  0.74  3.28           N 0
+ATOM  15076   NE ARG F  51      17.407  59.997  66.852  0.75  1.09           N 0
+ATOM  15073   CB ARG F  51      15.774  62.365  67.531  0.00  0.00           C 0
+ATOM  14962  CE2 PHE F  37       9.702  58.245  66.029  0.00  0.00           C 0
+ATOM  14939   CB PRO F  35      12.569  58.795  61.839  0.00  0.00           C 0
+ATOM   3070  CD2 HIS A 393      18.741  58.953  63.739  0.00  0.00           C 0
+ATOM  15087  CD2 LEU F  52      10.607  61.393  69.485  0.00  0.00           C 0
+ATOM   3040   CB ARG A 390      19.137  65.991  64.893  0.00  0.00           C 0
+ATOM  15075   CD ARG F  51      18.022  61.316  66.985  0.00  0.00           C 0
+ATOM   3041   CG ARG A 390      18.081  66.206  65.960  0.00  0.00           C 0
+ATOM  14940   CG PRO F  35      12.842  58.190  60.496  0.00  0.00           C 0
+ATOM   3107  CD1 LEU A 397      18.909  57.194  60.357  0.00  0.00           C 0
+ATOM   3078   CG LYS A 394      19.531  62.428  60.111  0.00  0.00           C 0
+ATOM   3080   CE LYS A 394      17.621  64.024  59.755  0.00  0.00           C 0
+ATOM   3039    O ARG A 390      20.761  63.572  63.197  0.00  0.00           O 0
+ATOM  15110  OE2 GLU F  55      12.038  62.481  60.285  0.81  6.43           O 0
+ATOM  15095    O HIS F  54      11.964  66.476  61.479  0.32  4.29           O 0
+ATOM  14925  OD1 ASP F  33      15.865  51.603  66.141  0.67  5.36           O 0
+ATOM  15072    O ARG F  51      13.217  63.293  66.545  0.00  0.00           O 0
+ATOM  15107   CG GLU F  55      10.055  62.873  61.533  0.00  0.00           C 0
+ATOM  14936   CA PRO F  35      11.427  57.936  62.397  0.00  0.00           C 0
+ATOM   3037   CA ARG A 390      20.062  64.798  65.144  0.00  0.00           C 0
+ATOM  14963   CZ PHE F  37       9.299  59.074  67.049  0.00  0.00           C 0
+ATOM  14930    O ASN F  34      10.357  55.585  63.279  0.00  0.00           O 0
+ATOM  14913    O LYS F  32      12.346  52.724  66.647  0.71  3.21           O 0
+ATOM  14921    C ASP F  33      13.363  53.576  63.219  0.00  0.00           C 0
+ATOM  14938    O PRO F  35       9.712  59.569  62.617  0.66  1.07           O 0
+ATOM  15052   CG PRO F  48      15.518  58.519  71.068  0.00  0.00           C 0
+ATOM  14986   SD MET F  40      10.437  57.719  71.251  0.00  0.00           S 0
+ATOM  15050    O PRO F  48      14.672  61.724  71.146  0.00  0.00           O 0
+ATOM  14712  NH1 ARG F   7      14.041  53.706  68.682  0.56  5.47           N 0
+ATOM  14709   CD ARG F   7      11.720  53.931  70.272  0.00  0.00           C 0
+ATOM  14710   NE ARG F   7      13.064  54.335  70.670  0.00  0.00           N 0
+ATOM  14711   CZ ARG F   7      14.142  54.224  69.900  0.00  0.00           C 0
+TER
+END

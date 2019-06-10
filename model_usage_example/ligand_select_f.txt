@@ -1,0 +1,2 @@
+6QTN.pdb  GTP  A
+6QTN.pdb  ACP  F

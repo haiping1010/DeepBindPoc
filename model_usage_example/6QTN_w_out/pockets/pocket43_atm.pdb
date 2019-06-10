@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0817
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8125
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4680
+HEADER 5  - Mean B-factor of pocket residues  : 0.4807
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.3393
+HEADER 10  -Pocket volume (convex hull)       : 3.8811
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1488    O HIS A 192      37.116  69.808  62.455  0.28  4.29           O 0
+ATOM   3334  OD2 ASP A 424      36.463  67.579  65.442  0.35  4.29           O 0
+ATOM   1493  CE1 HIS A 192      38.374  66.115  62.679  0.00  0.00           C 0
+ATOM   1525  OE2 GLU A 196      42.166  71.326  63.208  0.00  0.00           O 0
+ATOM   2072  NH1 ARG A 264      37.000  69.028  69.229  0.70  9.84           N 0
+ATOM   1523   CD GLU A 196      42.245  72.225  64.075  0.00  0.00           C 0
+ATOM   1517    N GLU A 196      38.331  73.806  65.141  0.66  2.19           N 0
+ATOM   1513   CB LEU A 195      35.739  72.122  65.385  0.00  0.00           C 0
+ATOM   1514   CG LEU A 195      35.060  72.102  66.754  0.00  0.00           C 0
+ATOM   2068   CG ARG A 264      36.701  71.837  71.265  0.00  0.00           C 0
+ATOM   1518   CA GLU A 196      39.488  74.443  65.755  0.00  0.00           C 0
+ATOM   1521   CB GLU A 196      40.720  73.539  65.621  0.00  0.00           C 0
+ATOM   1522   CG GLU A 196      41.106  73.227  64.182  0.00  0.00           C 0
+ATOM   1524  OE1 GLU A 196      43.213  72.333  64.861  0.67  7.50           O 0
+ATOM   2069   CD ARG A 264      37.060  70.421  71.685  0.00  0.00           C 0
+TER
+END

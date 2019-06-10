@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0728
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9128
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5046
+HEADER 5  - Mean B-factor of pocket residues  : 0.6132
+HEADER 6  - Hydrophobicity Score              : 30.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.1657
+HEADER 10  -Pocket volume (convex hull)       : 6.0933
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  16199   CD ARG F 222       0.564  47.699  95.749  0.00  0.00           C 0
+ATOM  16478  OE1 GLU F 261      -1.098  43.591  93.143  0.59  5.36           O 0
+ATOM  16183  CG1 VAL F 220      -2.691  48.374  93.876  0.00  0.00           C 0
+ATOM  16202  NH1 ARG F 222       2.722  48.330  94.047  0.00  0.00           N 0
+ATOM  17105   CB ALA F 337       3.449  46.801  86.475  0.00  0.00           C 0
+ATOM  17109    O CYS F 338      -0.618  45.322  87.284  0.00  0.00           O 0
+ATOM  17104    O ALA F 337       1.324  49.340  87.554  0.00  0.00           O 0
+ATOM  17103    C ALA F 337       1.532  48.420  86.759  0.00  0.00           C 0
+ATOM  16025  NH2 ARG F 202       4.057  51.165  91.975  0.29  7.66           N 0
+ATOM  16024  NH1 ARG F 202       2.272  50.868  90.566  0.60  5.47           N 0
+ATOM  17112    N ALA F 339      -2.267  46.446  88.330  0.73  1.09           N 0
+ATOM  17116   CB ALA F 339      -3.864  45.577  89.978  0.00  0.00           C 0
+ATOM  17101    N ALA F 337       3.811  49.223  86.616  0.54  8.75           N 0
+ATOM  17108    C CYS F 338      -1.221  46.374  87.510  0.00  0.00           C 0
+ATOM  16043  CZ2 TRP F 204      -1.773  49.690  89.824  0.00  0.00           C 0
+TER
+END

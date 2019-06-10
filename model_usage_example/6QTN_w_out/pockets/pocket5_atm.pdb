@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1756
+HEADER 1  - Drug Score                        : 0.0089
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.6045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3911
+HEADER 5  - Mean B-factor of pocket residues  : 0.3573
+HEADER 6  - Hydrophobicity Score              : 28.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 137.2535
+HEADER 10  -Pocket volume (convex hull)       : 6.0316
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   2844    N VAL A 363      12.692  96.007  55.958  0.68  3.28           N 0
+ATOM   2878   CB LEU A 368       9.492  91.785  59.450  0.00  0.00           C 0
+ATOM   2880  CD1 LEU A 368      11.523  90.519  60.169  0.00  0.00           C 0
+ATOM   1831  NE2 GLN A 233      14.650  93.610  59.645  0.53  4.37           N 0
+ATOM   2847    O VAL A 363      10.420  96.100  54.249  0.48  2.14           O 0
+ATOM   2874    N LEU A 368       7.937  91.548  57.559  0.00  0.00           N 0
+ATOM   2863   CA GLY A 366       8.922  92.940  53.373  0.00  0.00           C 0
+ATOM   1796   CD ARG A 229      13.126  91.119  53.307  0.00  0.00           C 0
+ATOM   2850  CG2 VAL A 363      14.554  94.496  54.386  0.00  0.00           C 0
+ATOM   2848   CB VAL A 363      13.250  95.011  53.784  0.00  0.00           C 0
+ATOM   2879   CG LEU A 368      10.154  90.410  59.512  0.00  0.00           C 0
+ATOM   2866    N ASP A 367       7.962  91.265  54.813  0.54  3.28           N 0
+ATOM   1794   CB ARG A 229      13.681  89.271  54.911  0.00  0.00           C 0
+ATOM   1793    O ARG A 229      15.195  89.394  57.786  0.68  3.21           O 0
+ATOM   1769    O ASN A 226      12.451  85.512  55.413  0.00  0.00           O 0
+ATOM   2873  OD2 ASP A 367       8.384  87.987  53.740  0.76  1.07           O 0
+ATOM   1695  CD1 LEU A 217       8.004  86.453  58.539  0.00  0.00           C 0
+ATOM   1801    N LEU A 230      14.315  87.353  57.468  0.00  0.00           N 0
+ATOM   2870   CB ASP A 367       7.110  89.050  55.449  0.00  0.00           C 0
+TER
+END
