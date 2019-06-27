@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0603
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9927
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5271
+HEADER 5  - Mean B-factor of pocket residues  : 0.5687
+HEADER 6  - Hydrophobicity Score              : 15.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.6999
+HEADER 10  -Pocket volume (convex hull)       : 6.0334
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3200
+ATOM   1605  CD2 TRP B  68      15.809  42.633  22.189  0.00  0.00           C 0
+ATOM   1607  CE2 TRP B  68      15.078  41.798  23.151  0.00  0.00           C 0
+ATOM   1425  NE2 HIS B  44      10.679  40.980  18.994  0.66  5.47           N 0
+ATOM   1610  CZ3 TRP B  68      14.910  41.267  20.451  0.00  0.00           C 0
+ATOM   1423  CD2 HIS B  44      11.664  41.341  18.141  0.00  0.00           C 0
+ATOM   1561  ND2 ASN B  61      15.073  45.880  19.213  0.50  3.28           N 0
+ATOM   1611  CH2 TRP B  68      14.232  40.471  21.384  0.00  0.00           C 0
+ATOM   1608  CE3 TRP B  68      15.702  42.349  20.843  0.00  0.00           C 0
+ATOM   1609  CZ2 TRP B  68      14.300  40.723  22.750  0.00  0.00           C 0
+ATOM   1631  OE2 GLU B  71      10.735  47.682  20.480  0.67  9.64           O 0
+ATOM   1558   CB ASN B  61      14.596  44.316  17.412  0.00  0.00           C 0
+ATOM   1461  NH1 ARG B  48       7.703  45.025  20.489  0.33  9.84           N 0
+ATOM   1604  CD1 TRP B  68      16.184  43.367  24.303  0.00  0.00           C 0
+ATOM   1615    O GLY B  69      17.401  47.661  19.865  0.70  5.36           O 0
+ATOM   1602   CB TRP B  68      17.391  44.758  22.469  0.00  0.00           C 0
+ATOM   1628   CG GLU B  71      12.344  48.347  18.864  0.00  0.00           C 0
+ATOM   1603   CG TRP B  68      16.508  43.651  22.975  0.00  0.00           C 0
+ATOM   1542  CG1 VAL B  59       9.491  46.236  17.056  0.00  0.00           C 0
+TER
+END

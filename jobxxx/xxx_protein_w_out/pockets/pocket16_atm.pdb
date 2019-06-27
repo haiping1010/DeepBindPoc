@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0403
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9311
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5582
+HEADER 5  - Mean B-factor of pocket residues  : 0.2777
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.6740
+HEADER 10  -Pocket volume (convex hull)       : 3.6339
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   2305   CB ALA A 294       8.915  86.077  73.447  0.00  0.00           C 0
+ATOM   2249  CD1 LEU A 286       4.984  91.091  70.738  0.00  0.00           C 0
+ATOM   2250  CD2 LEU A 286       3.989  90.580  72.970  0.00  0.00           C 0
+ATOM   2272    O GLU A 290       7.801  88.434  75.717  0.46  5.36           O 0
+ATOM   2279   CA ILE A 291       9.455  90.125  74.398  0.00  0.00           C 0
+ATOM   2151   CB PRO A 274       7.687  90.527  68.716  0.00  0.00           C 0
+ATOM   2284  CG2 ILE A 291       8.865  91.972  72.787  0.00  0.00           C 0
+ATOM   2146   CB ALA A 273      10.679  87.847  70.716  0.00  0.00           C 0
+ATOM   2350  OD1 ASN A 300       8.780  83.040  69.114  0.48  3.21           O 0
+ATOM   2351  ND2 ASN A 300       9.171  83.420  71.291  0.71  2.19           N 0
+ATOM   2157    O VAL A 275       5.910  87.810  64.807  0.64  5.36           O 0
+ATOM   2154    N VAL A 275       8.349  88.615  66.194  0.46  2.19           N 0
+ATOM   1688  ND2 ASN A 216       6.744  84.204  65.685  0.42  4.37           N 0
+ATOM   2168  CD1 ILE A 276       4.059  90.578  66.660  0.00  0.00           C 0
+ATOM   2148   CA PRO A 274       8.901  89.714  68.290  0.00  0.00           C 0
+TER
+END

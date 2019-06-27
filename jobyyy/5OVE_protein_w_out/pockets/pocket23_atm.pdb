@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1050
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0543
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7151
+HEADER 5  - Mean B-factor of pocket residues  : 0.8046
+HEADER 6  - Hydrophobicity Score              : 22.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.1441
+HEADER 10  -Pocket volume (convex hull)       : 3.9429
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1248   CB ARG A 713     -15.776   2.172   5.775  0.00  0.00           C 0
+ATOM   1247    O ARG A 713     -13.560   3.108   3.563  0.81  1.07           O 0
+ATOM   1245   CA ARG A 713     -15.463   1.853   4.311  0.00  0.00           C 0
+ATOM   1286  OE2 GLU A 716     -17.887   4.367   1.297  0.32  7.50           O 0
+ATOM   1287    N PHE A 717     -12.529   4.501   1.281  0.80  1.09           N 0
+ATOM   1283   CG GLU A 716     -16.078   4.709  -0.224  0.00  0.00           C 0
+ATOM   1291   CB PHE A 717     -11.226   5.476   3.150  0.00  0.00           C 0
+ATOM   1249   CG ARG A 713     -17.251   2.350   6.090  0.00  0.00           C 0
+ATOM   1251   NE ARG A 713     -16.846   4.015   7.870  0.77  5.47           N 0
+ATOM   1315  OG1 THR A 720     -12.111   8.351  -1.223  0.08  5.36           O 0
+ATOM   1288   CA PHE A 717     -11.558   5.538   1.652  0.00  0.00           C 0
+ATOM   1293  CD1 PHE A 717      -9.947   7.641   3.372  0.00  0.00           C 0
+ATOM    704  OE2 GLU A 649     -12.896  12.811   4.268  0.00  0.00           O 0
+ATOM   1281    O GLU A 716     -12.806   5.222  -0.843  0.50  1.07           O 0
+ATOM    663  CG2 ILE A 645     -12.335   9.921   6.636  0.00  0.00           C 0
+ATOM    662  CG1 ILE A 645     -11.959   7.608   7.532  0.00  0.00           C 0
+ATOM   1254  NH2 ARG A 713     -16.052   5.686   9.235  0.71  9.84           N 0
+ATOM    664  CD1 ILE A 645     -11.296   7.130   6.265  0.00  0.00           C 0
+TER
+END

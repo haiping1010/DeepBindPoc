@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0164
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9685
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6010
+HEADER 5  - Mean B-factor of pocket residues  : 0.5723
+HEADER 6  - Hydrophobicity Score              : -8.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.0343
+HEADER 10  -Pocket volume (convex hull)       : 10.6236
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1236   CB GLU A 362     184.346-131.988 248.578  0.00  0.00           C 0
+ATOM   1230  OG1 THR A 361     179.396-132.813 250.921  0.00  0.00           O 0
+ATOM   1239  OE1 GLU A 362     184.160-132.131 245.822  0.74  3.21           O 0
+ATOM   2080  CG2 THR A 462     182.926-135.961 248.585  0.00  0.00           C 0
+ATOM   1238   CD GLU A 362     184.051-130.963 246.262  0.00  0.00           C 0
+ATOM   1222   CB PRO A 360     181.043-127.319 252.059  0.00  0.00           C 0
+ATOM   1387  NH1 ARG A 379     184.536-127.326 247.327  0.39  2.19           N 0
+ATOM   1194  OG1 THR A 352     182.290-123.585 245.494  0.50  5.36           O 0
+ATOM   1192    O THR A 352     183.544-123.263 247.933  0.39  2.14           O 0
+ATOM   1219   CA PRO A 360     179.887-128.323 251.941  0.00  0.00           C 0
+ATOM   1228    O THR A 361     182.665-133.557 251.003  0.00  0.00           O 0
+ATOM   1217   OG SER A 355     180.621-121.370 250.928  0.47  4.29           O 0
+ATOM   1218    N PRO A 360     178.827-127.717 252.762  0.00  0.00           N 0
+ATOM   1224   CD PRO A 360     179.334-126.618 253.602  0.00  0.00           C 0
+ATOM   1384   CD ARG A 379     184.719-126.317 249.956  0.00  0.00           C 0
+ATOM   1237   CG GLU A 362     184.202-130.712 247.762  0.00  0.00           C 0
+ATOM   1225    N THR A 361     180.825-130.590 251.641  0.55  3.28           N 0
+ATOM   1240  OE2 GLU A 362     183.798-129.982 245.526  0.00  0.00           O 0
+TER
+END

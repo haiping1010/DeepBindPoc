@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0374
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5965
+HEADER 5  - Mean B-factor of pocket residues  : 0.5629
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.0469
+HEADER 10  -Pocket volume (convex hull)       : 7.8259
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    119    N LEU A  17       2.989  13.948  12.522  0.46  5.47           N 0
+ATOM   1073   CB ASP A 134      -1.302  17.027  10.125  0.00  0.00           C 0
+ATOM    102    C GLU A  15      -0.429  13.712  14.706  0.00  0.00           C 0
+ATOM   1072    O ASP A 134      -2.433  16.221  12.477  0.62  5.36           O 0
+ATOM    680    O ILE A  89       3.082  11.199  13.258  0.00  0.00           O 0
+ATOM    132   CG ARG A  18       2.739  14.704   7.834  0.00  0.00           C 0
+ATOM    122    O LEU A  17       4.907  12.805  10.638  0.19  1.07           O 0
+ATOM    677    N ILE A  89       4.583   9.967  11.150  0.32  5.47           N 0
+ATOM    691  CG2 THR A  90      -0.276  10.336  13.701  0.00  0.00           C 0
+ATOM     99    O GLY A  14      -3.735  12.655  15.085  0.32  5.36           O 0
+ATOM    133   CD ARG A  18       1.715  15.062   6.770  0.00  0.00           C 0
+ATOM    685    N THR A  90       2.549   9.076  13.922  0.00  0.00           N 0
+ATOM    690  OG1 THR A  90      -0.096   7.978  13.943  0.54  7.50           O 0
+ATOM    774   CGALYS A  99       1.465   6.013   8.603  0.00  0.00           C 0
+ATOM    778   CEALYS A  99      -0.836   5.578   9.493  0.00  0.00           C 0
+ATOM    776   CDALYS A  99      -0.001   5.834   8.248  0.00  0.00           C 0
+ATOM    679    C ILE A  89       3.301   9.980  13.276  0.00  0.00           C 0
+TER
+END

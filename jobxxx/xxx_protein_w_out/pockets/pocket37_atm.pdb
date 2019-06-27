@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0430
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0974
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5620
+HEADER 5  - Mean B-factor of pocket residues  : 0.4331
+HEADER 6  - Hydrophobicity Score              : 31.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.9079
+HEADER 10  -Pocket volume (convex hull)       : 16.1515
+HEADER 11 - Charge Score                      :     5
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  16743  NH1 ARG F 292      -6.942  70.502  93.791  0.00  0.00           N 0
+ATOM  16706   CE LYS F 288      -9.790  63.579  95.775  0.00  0.00           C 0
+ATOM  16681  CD2 LEU F 285     -10.936  65.946  99.294  0.00  0.00           C 0
+ATOM  16707   NZ LYS F 288     -11.254  63.782  95.590  0.83  9.84           N 0
+ATOM  16703   CB LYS F 288      -6.826  64.275  95.299  0.00  0.00           C 0
+ATOM  17320  CG2 ILE F 376     -11.226  62.737  90.661  0.00  0.00           C 0
+ATOM  16705   CD LYS F 288      -9.059  63.471  94.448  0.00  0.00           C 0
+ATOM  17325    O LYS F 377     -10.142  66.528  88.684  0.54  3.21           O 0
+ATOM  17338  CD2 LEU F 378      -7.569  64.591  91.237  0.00  0.00           C 0
+ATOM  17332   CA LEU F 378      -7.503  66.985  89.466  0.00  0.00           C 0
+ATOM  16740   CD ARG F 292      -5.087  69.120  92.205  0.00  0.00           C 0
+ATOM  16714  ND1 HIS F 289      -2.972  69.651  98.712  0.50  6.56           N 0
+ATOM  16712   CB HIS F 289      -3.919  67.315  98.756  0.00  0.00           C 0
+ATOM  16709   CA HIS F 289      -3.738  66.927  97.290  0.00  0.00           C 0
+ATOM  16677    O LEU F 285      -6.528  65.092  99.070  0.73  2.14           O 0
+ATOM  16708    N HIS F 289      -4.523  65.738  96.983  0.00  0.00           N 0
+ATOM  17339    N HIS F 379      -8.140  69.319  89.198  0.65  1.09           N 0
+ATOM  17346  CD2 HIS F 379     -11.738  70.054  88.596  0.00  0.00           C 0
+TER
+END

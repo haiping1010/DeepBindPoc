@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0048
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8405
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4380
+HEADER 5  - Mean B-factor of pocket residues  : 0.2207
+HEADER 6  - Hydrophobicity Score              : 36.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.9679
+HEADER 10  -Pocket volume (convex hull)       : 35.5103
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4138
+ATOM   2857    O HIS A 911       6.611 -17.666  39.012  0.14  3.21           O 0
+ATOM   2855   CA HIS A 911       5.431 -17.930  41.114  0.00  0.00           C 0
+ATOM   2870  CD1 TYR A 912       3.307 -20.418  38.041  0.00  0.00           C 0
+ATOM   2856    C HIS A 911       6.083 -18.443  39.815  0.00  0.00           C 0
+ATOM   2872  CE1 TYR A 912       2.098 -21.104  38.094  0.00  0.00           C 0
+ATOM   2834    O SER A 908       4.607 -22.080  41.001  0.00  0.00           O 0
+ATOM   3063  CG2 THR A 935      -2.271 -15.763  37.412  0.00  0.00           C 0
+ATOM   3096   NZ LYS A 939      -0.445 -13.786  40.460  0.00  0.00           N 0
+ATOM   3061   CB THR A 935      -2.422 -16.243  35.965  0.00  0.00           C 0
+ATOM   3062  OG1 THR A 935      -3.095 -17.506  35.962  0.00  0.00           O 0
+ATOM   3036  CD1 ILE A 932       3.991 -17.984  34.660  0.00  0.00           C 0
+ATOM   3071  ND2 ASN A 936       2.916 -13.498  34.488  0.71  7.66           N 0
+ATOM   2912  CD1 LEU A 916       8.529 -16.901  35.473  0.00  0.00           C 0
+ATOM   3012  CE2 PHE A 929       0.670 -22.198  34.118  0.00  0.00           C 0
+ATOM   2875   OH TYR A 912       0.750 -22.958  37.410  0.70  8.57           O 0
+ATOM   3013   CZ PHE A 929      -0.524 -22.886  33.964  0.00  0.00           C 0
+ATOM   2860  ND1 HIS A 911       3.765 -15.781  42.823  0.00  0.00           N 0
+ATOM   2854    N HIS A 911       5.856 -18.679  42.306  0.35  3.28           N 0
+ATOM   2858   CB HIS A 911       5.677 -16.427  41.310  0.00  0.00           C 0
+ATOM   3070  OD1 ASN A 936       1.320 -13.696  36.055  0.00  0.00           O 0
+ATOM   3034  CG1 ILE A 932       2.531 -17.661  34.403  0.00  0.00           C 0
+ATOM   3030   CA ILE A 932       0.330 -18.288  33.274  0.00  0.00           C 0
+TER
+END

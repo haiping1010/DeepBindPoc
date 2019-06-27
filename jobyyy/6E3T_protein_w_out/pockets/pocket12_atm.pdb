@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0631
+HEADER 1  - Drug Score                        : 0.0125
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9077
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4329
+HEADER 5  - Mean B-factor of pocket residues  : 0.6070
+HEADER 6  - Hydrophobicity Score              : 43.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.8448
+HEADER 10  -Pocket volume (convex hull)       : 10.6478
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7727
+ATOM    116   CG PRO A 117       8.188  31.874  21.431  0.00  0.00           C 0
+ATOM    117   CD PRO A 117       6.788  31.534  21.847  0.00  0.00           C 0
+ATOM    275  CE1 HIS A 138       4.543  34.362  20.705  0.00  0.00           C 0
+ATOM   2281  ND1 HIS B  67       3.662  32.821  13.682  0.00  0.00           N 0
+ATOM     99    O MET A 115       4.298  29.636  21.347  0.00  0.00           O 0
+ATOM   2253   CB LEU B  64       0.343  31.268  18.581  0.00  0.00           C 0
+ATOM   2283  CE1 HIS B  67       4.463  33.784  13.259  0.00  0.00           C 0
+ATOM    307  CD2 LEU A 142       3.776  36.783  16.025  0.00  0.00           C 0
+ATOM    273  ND1 HIS A 138       3.683  34.920  21.534  0.00  0.00           N 0
+ATOM    282   CG MET A 139      -0.570  36.542  21.216  0.00  0.00           C 0
+ATOM    270    O HIS A 138       3.376  37.701  20.915  0.41  1.07           O 0
+ATOM    276  NE2 HIS A 138       5.763  34.635  21.130  0.66  5.47           N 0
+ATOM   2252    O LEU B  64       0.893  29.581  15.955  0.45  1.07           O 0
+ATOM   2290   CG LYS B  68       3.084  27.490  15.490  0.00  0.00           C 0
+ATOM    304   CB LEU A 142       2.639  38.982  16.490  0.00  0.00           C 0
+ATOM   2247  CE2 PHE B  63      -1.801  36.102  16.805  0.00  0.00           C 0
+ATOM    278   CA MET A 139       0.794  38.732  20.872  0.00  0.00           C 0
+ATOM   2280   CG HIS B  67       2.359  33.129  13.348  0.00  0.00           C 0
+ATOM   2279   CB HIS B  67       1.206  32.255  13.715  0.00  0.00           C 0
+ATOM   2250   CA LEU B  64      -0.416  31.088  17.265  0.00  0.00           C 0
+TER
+END

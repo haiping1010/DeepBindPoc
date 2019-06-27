@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0180
+HEADER 1  - Drug Score                        : 0.0107
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7748
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3792
+HEADER 5  - Mean B-factor of pocket residues  : 0.8004
+HEADER 6  - Hydrophobicity Score              : 54.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.9923
+HEADER 10  -Pocket volume (convex hull)       : 4.3567
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.9048
+ATOM   2388    O LEU B  64     174.906-103.766 205.210  0.00  0.00           O 0
+ATOM   2427   CD LYS B  68     170.499-104.533 206.257  0.00  0.00           C 0
+ATOM   2418  CD2 HIS B  67     172.628 -99.289 207.284  0.00  0.00           C 0
+ATOM    251  CE1 HIS A 138     170.422 -99.728 200.720  0.00  0.00           C 0
+ATOM   2391  CD1 LEU B  64     174.620-103.700 200.441  0.00  0.00           C 0
+ATOM   2389   CB LEU B  64     175.557-102.409 202.422  0.00  0.00           C 0
+ATOM    132    O MET A 115     170.776-104.662 200.310  0.42  7.50           O 0
+ATOM    282  CD1 LEU A 142     171.397 -96.886 205.345  0.00  0.00           C 0
+ATOM    249  ND1 HIS A 138     171.231 -99.035 199.938  0.41  4.37           N 0
+ATOM    257   CB MET A 139     174.940 -96.197 200.993  0.00  0.00           C 0
+ATOM    280   CB LEU A 142     172.568 -94.664 205.133  0.00  0.00           C 0
+ATOM   2384   CZ PHE B  63     177.980 -97.122 204.857  0.00  0.00           C 0
+ATOM   2383  CE2 PHE B  63     178.106 -97.459 203.531  0.00  0.00           C 0
+ATOM   2415   CB HIS B  67     174.776-100.730 207.447  0.00  0.00           C 0
+ATOM   2426   CG LYS B  68     171.767-105.346 205.884  0.00  0.00           C 0
+ATOM   2386   CA LEU B  64     176.297-102.451 203.767  0.00  0.00           C 0
+TER
+END

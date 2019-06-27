@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0200
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9839
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6079
+HEADER 5  - Mean B-factor of pocket residues  : 0.5787
+HEADER 6  - Hydrophobicity Score              : -3.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.1904
+HEADER 10  -Pocket volume (convex hull)       : 4.5646
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   3780   CG ARG A1019     -13.674 -38.890  53.418  0.00  0.00           C 0
+ATOM   3775    N ARG A1019     -13.593 -41.922  53.078  0.71  1.09           N 0
+ATOM   3809   NZ LYS A1022     -17.145 -41.477  56.806  0.52  3.28           N 0
+ATOM   3808   CE LYS A1022     -18.066 -42.439  56.134  0.00  0.00           C 0
+ATOM   3738   CB LEU A1014     -16.557 -39.718  48.476  0.00  0.00           C 0
+ATOM   3741  CD2 LEU A1014     -15.095 -38.237  49.914  0.00  0.00           C 0
+ATOM   3807   CD LYS A1022     -17.340 -43.607  55.482  0.00  0.00           C 0
+ATOM   3737    O LEU A1014     -15.818 -42.849  48.845  0.58  7.50           O 0
+ATOM   3782   NE ARG A1019     -15.285 -37.000  53.184  0.69  5.47           N 0
+ATOM   3740  CD1 LEU A1014     -17.333 -37.433  49.147  0.00  0.00           C 0
+ATOM   3779   CB ARG A1019     -13.459 -39.912  54.530  0.00  0.00           C 0
+ATOM   3769   CA PRO A1018     -14.106 -43.631  51.425  0.00  0.00           C 0
+ATOM   3772   CB PRO A1018     -14.922 -44.746  52.089  0.00  0.00           C 0
+ATOM   3773   CG PRO A1018     -15.210 -45.699  50.986  0.00  0.00           C 0
+ATOM   3745    O GLU A1015     -16.060 -45.889  47.245  0.00  0.00           O 0
+ATOM   3743   CA GLU A1015     -17.202 -43.860  46.645  0.00  0.00           C 0
+TER
+END

@@ -22,7 +22,7 @@ import numpy as np
 import random
 
 import pandas as pd
-
+import sys
 from pandas import DataFrame
 
 import pylab as pl
@@ -185,7 +185,7 @@ def assess(model, X, label, thre = 0.5):
     print('auc: ', auc)
     print('accuracy: ', accuracy)
 
-
+path=sys.argv[1]
 
 
 test_X = preprocess_data(test_X)
@@ -196,7 +196,7 @@ test_X = preprocess_data(test_X)
 
 #assess(model, test_X, test_Y)
 
-model=load_model('FCdenset_near.h5')
+model=load_model(path+'/FCdenset_near.h5')
 
 #model = load_model('FCdenset.h5')
 

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0405
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7537
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4755
+HEADER 5  - Mean B-factor of pocket residues  : 0.9122
+HEADER 6  - Hydrophobicity Score              : 34.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.4524
+HEADER 10  -Pocket volume (convex hull)       : 4.6187
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    324  OE2 GLU A 163     176.097 -97.226 211.020  0.54  1.07           O 0
+ATOM    280   CB LEU A 142     172.568 -94.664 205.133  0.00  0.00           C 0
+ATOM    297  OG1 THR A 160     176.452 -94.058 211.268  0.00  0.00           O 0
+ATOM   2384   CZ PHE B  63     177.980 -97.122 204.857  0.00  0.00           C 0
+ATOM    278    C LEU A 142     173.875 -92.529 204.916  0.00  0.00           C 0
+ATOM   2416   CG HIS B  67     173.720 -99.783 207.909  0.00  0.00           C 0
+ATOM   2418  CD2 HIS B  67     172.628 -99.289 207.284  0.00  0.00           C 0
+ATOM   2420  NE2 HIS B  67     171.981 -98.474 208.182  0.90  2.19           N 0
+ATOM   2382  CE1 PHE B  63     178.618 -97.880 205.826  0.00  0.00           C 0
+ATOM   2222   CG PRO B  42     181.027 -94.968 205.055  0.00  0.00           C 0
+ATOM    285   CA LEU A 159     180.753 -95.287 209.995  0.00  0.00           C 0
+ATOM    286    C LEU A 159     180.307 -94.590 211.275  0.00  0.00           C 0
+ATOM    292    N THR A 160     179.022 -94.691 211.603  0.42  1.09           N 0
+ATOM   2417  ND1 HIS B  67     173.695 -99.270 209.189  0.00  0.00           N 0
+ATOM   2419  CE1 HIS B  67     172.645 -98.480 209.324  0.00  0.00           C 0
+TER
+END

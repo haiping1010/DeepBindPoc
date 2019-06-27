@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1275
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0332
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6862
+HEADER 5  - Mean B-factor of pocket residues  : 0.4337
+HEADER 6  - Hydrophobicity Score              : 21.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 365.1977
+HEADER 10  -Pocket volume (convex hull)       : 20.9660
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1581   CB ASP B  64      24.368  41.910  18.869  0.00  0.00           C 0
+ATOM   1580    O ASP B  64      24.489  41.494  21.761  0.44  4.29           O 0
+ATOM   1584  OD2 ASP B  64      26.451  42.494  17.849  0.00  0.00           O 0
+ATOM   1597   CB ALA B  67      22.898  44.065  23.830  0.00  0.00           C 0
+ATOM   1961   CD ARG B 111      20.774  45.793  13.331  0.00  0.00           C 0
+ATOM   1567   OG SER B  62      19.887  44.007  16.001  0.45  1.07           O 0
+ATOM   1959   CB ARG B 111      22.619  44.389  12.575  0.00  0.00           C 0
+ATOM   1972  CD1 LEU B 112      23.446  41.175  15.187  0.00  0.00           C 0
+ATOM   1958    O ARG B 111      25.467  43.458  12.680  0.54  4.29           O 0
+ATOM   1601    O TRP B  68      20.102  46.188  21.706  0.00  0.00           O 0
+ATOM   1596    O ALA B  67      21.269  43.125  21.484  0.63  1.07           O 0
+ATOM   1613   CA GLY B  69      19.434  46.706  19.058  0.00  0.00           C 0
+ATOM   1964  NH1 ARG B 111      18.587  46.433  15.025  0.61  1.09           N 0
+ATOM   1965  NH2 ARG B 111      17.988  48.155  13.626  0.33  9.84           N 0
+ATOM   1963   CZ ARG B 111      18.804  47.153  13.920  0.00  0.00           C 0
+ATOM   1962   NE ARG B 111      19.822  46.869  13.104  0.00  0.00           N 0
+ATOM   1621  OG1 THR B  70      18.977  51.301  17.876  0.00  0.00           O 0
+ATOM   1620   CB THR B  70      17.942  50.760  17.040  0.00  0.00           C 0
+ATOM   1616    N THR B  70      18.304  48.530  17.989  0.53  1.09           N 0
+TER
+END

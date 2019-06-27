@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0079
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9165
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6337
+HEADER 5  - Mean B-factor of pocket residues  : 0.4442
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.8078
+HEADER 10  -Pocket volume (convex hull)       : 2.6774
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   3289    N VAL B 201     173.670-114.219 215.373  0.67  1.09           N 0
+ATOM   3283   CG ARG B 200     174.616-111.491 216.486  0.00  0.00           C 0
+ATOM   3291    C VAL B 201     172.319-112.978 213.705  0.00  0.00           C 0
+ATOM   3295  CG2 VAL B 201     170.998-115.176 215.126  0.00  0.00           C 0
+ATOM   3288  NH2 ARG B 200     171.642-108.479 218.016  0.00  0.00           N 0
+ATOM   2457   OG SER B  72     170.456-108.502 214.375  0.23  5.36           O 0
+ATOM   3285   NE ARG B 200     173.486-109.375 216.949  0.61  1.09           N 0
+ATOM   2992  CG2 THR B 164     175.176-116.759 222.295  0.00  0.00           C 0
+ATOM   3287  NH1 ARG B 200     173.397-109.320 219.243  0.45  7.66           N 0
+ATOM   2991  OG1 THR B 164     176.397-115.023 223.448  0.00  0.00           O 0
+ATOM   3274    O VAL B 199     176.759-114.425 219.250  0.54  2.14           O 0
+ATOM   3282   CB ARG B 200     175.666-112.385 217.109  0.00  0.00           C 0
+ATOM   3279   CA ARG B 200     175.559-113.903 216.851  0.00  0.00           C 0
+ATOM   3286   CZ ARG B 200     172.838-109.066 218.070  0.00  0.00           C 0
+ATOM    384  OE2 GLU A 170     175.920-109.240 220.889  0.32  5.36           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1734
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9938
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5963
+HEADER 5  - Mean B-factor of pocket residues  : 0.6476
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.8802
+HEADER 10  -Pocket volume (convex hull)       : 5.7808
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   1769    O ILE B  89      14.268  32.871   3.701  0.00  0.00           O 0
+ATOM   1200    O LEU B  17      11.408  30.901   4.376  0.32  1.07           O 0
+ATOM   1766    N ILE B  89      11.607  33.703   4.071  0.00  0.00           N 0
+ATOM   1197    N LEU B  17      13.903  29.983   3.497  0.00  0.00           N 0
+ATOM   1214  NH1 ARG B  18       7.934  30.246  -1.122  0.50  9.84           N 0
+ATOM   1848   CB LYS B  99       9.047  37.306   0.552  0.00  0.00           C 0
+ATOM   1850   CD LYS B  99      10.058  37.470  -1.756  0.00  0.00           C 0
+ATOM   1180    C GLU B  15      17.138  30.446   1.108  0.00  0.00           C 0
+ATOM   1778   CB THR B  90      16.081  34.767   1.320  0.00  0.00           C 0
+ATOM   1181    O GLU B  15      17.152  31.407   1.861  0.00  0.00           O 0
+ATOM   1768    C ILE B  89      13.977  34.066   3.842  0.00  0.00           C 0
+ATOM   1215  NH2 ARG B  18       9.534  29.599  -2.635  0.00  0.00           N 0
+ATOM   1213   CZ ARG B  18       8.897  29.398  -1.488  0.00  0.00           C 0
+ATOM   1210   CG ARG B  18       9.411  28.597   1.707  0.00  0.00           C 0
+ATOM   1780  CG2 THR B  90      15.665  36.064   0.623  0.00  0.00           C 0
+ATOM   1849   CG LYS B  99       9.749  38.200  -0.453  0.00  0.00           C 0
+ATOM   1774    N THR B  90      14.694  35.068   3.333  0.00  0.00           N 0
+ATOM   1212   NE ARG B  18       9.233  28.353  -0.728  0.00  0.00           N 0
+ATOM   1833    O THR B  97      13.165  37.759   3.369  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1003
+HEADER 1  - Drug Score                        : 0.0349
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8537
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4525
+HEADER 5  - Mean B-factor of pocket residues  : 0.0890
+HEADER 6  - Hydrophobicity Score              : 80.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.5455
+HEADER 9  - Pocket volume (Monte Carlo)       : 116.3331
+HEADER 10  -Pocket volume (convex hull)       : 2.1775
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 24.0000
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   2437   CB ALA B 100     -11.513  25.349   7.254  0.00  0.00           C 0
+ATOM   2919   CE MET B 172     -18.166  24.312   9.559  0.00  0.00           C 0
+ATOM   2918   SD MET B 172     -18.747  23.525   8.048  0.00  0.00           S 0
+ATOM   2674  CD1 ILE B 131     -13.967  19.013   8.710  0.00  0.00           C 0
+ATOM   2522  CD2 LEU B 111     -13.227  26.123  10.074  0.00  0.00           C 0
+ATOM   2422  CE1 PHE B  98     -15.265  26.739   6.305  0.00  0.00           C 0
+ATOM   3188   SG CYS B 226     -14.053  24.702   3.592  0.00  0.00           S 0
+ATOM   2899   SD MET B 170     -16.418  19.462   5.620  0.00  0.00           S 0
+ATOM   2424   CZ PHE B  98     -16.566  26.389   5.967  0.00  0.00           C 0
+ATOM   3068  CD1 LEU B 193     -18.688  24.358   4.099  0.00  0.00           C 0
+ATOM   2672  CG1 ILE B 131     -14.717  19.378  10.008  0.00  0.00           C 0
+ATOM   2494   SD MET B 108     -14.323  22.726  12.312  0.00  0.00           S 0
+ATOM   3174  CD1 ILE B 224     -11.306  22.980   4.513  0.00  0.00           C 0
+ATOM   2900   CE MET B 170     -15.008  18.878   4.742  0.00  0.00           C 0
+ATOM   2451  CG2 VAL B 102     -10.353  21.833   9.155  0.00  0.00           C 0
+TER
+END

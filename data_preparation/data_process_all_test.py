@@ -72,13 +72,15 @@ for i in range(proteins.shape[0]):
 '''
 ligands_n = pd.DataFrame(np.repeat(ligands.values, proteins.shape[0], axis=0))
 
-proteins = pd.DataFrame(np.vstack((proteins.values, proteins.values)))
+proteins = pd.DataFrame(np.array(proteins.values))
+
+#proteins = pd.DataFrame(np.vstack((proteins.values, proteins.values)))
 
 ligand = ligands_n.ix[:, 1:]
 protein = proteins.ix[:, 1:]
 for i in range(proteins.shape[0]):
     pname = proteins.ix[i, 0]
-    lname = ligands_n.ix[i, 0].replace('_ligands_n.pdb','')
+    lname = ligands_n.ix[i, 0].replace('_ligand.pdb','')
     pos_list_used.append(lname+pname[4:])
 print protein.shape
 print ligand.shape

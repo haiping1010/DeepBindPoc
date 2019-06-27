@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0389
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9021
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5174
+HEADER 5  - Mean B-factor of pocket residues  : 0.4494
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.0061
+HEADER 10  -Pocket volume (convex hull)       : 15.8428
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   4429   CB GLU B 360     206.905-119.785 258.347  0.00  0.00           C 0
+ATOM   4053   CE LYS B 312     206.710-115.164 254.619  0.00  0.00           C 0
+ATOM   4054   NZ LYS B 312     207.841-114.690 253.807  0.82  5.47           N 0
+ATOM   3727  OE1 GLU B 271     209.781-115.759 252.126  0.00  0.00           O 0
+ATOM   3736  CD2 LEU B 272     207.522-116.581 246.409  0.00  0.00           C 0
+ATOM   3688  CD1 TYR B 267     205.953-114.645 249.983  0.00  0.00           C 0
+ATOM   3690  CE1 TYR B 267     204.981-115.605 250.210  0.00  0.00           C 0
+ATOM   4404    O ASP B 357     204.757-119.592 254.649  0.64  3.21           O 0
+ATOM   4405   CB ASP B 357     204.679-120.844 251.673  0.00  0.00           C 0
+ATOM   4430   CG GLU B 360     207.316-121.233 258.081  0.00  0.00           C 0
+ATOM   4407  OD1 ASP B 357     206.205-122.234 250.539  0.00  0.00           O 0
+ATOM   3801  CE2 PHE B 280     205.271-119.096 247.555  0.00  0.00           C 0
+ATOM   3723    O GLU B 271     211.577-118.051 247.829  0.58  3.21           O 0
+ATOM   4402   CA ASP B 357     204.518-121.386 253.084  0.00  0.00           C 0
+ATOM   4396    O MET B 356     204.369-123.207 255.086  0.50  5.36           O 0
+ATOM   4052   CD LYS B 312     205.372-114.948 253.920  0.00  0.00           C 0
+ATOM   3802   CZ PHE B 280     206.137-119.936 246.858  0.00  0.00           C 0
+ATOM   3756   NE ARG B 275     209.216-122.322 247.570  0.35  5.47           N 0
+TER
+END

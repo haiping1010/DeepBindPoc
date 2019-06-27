@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0497
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8942
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6025
+HEADER 5  - Mean B-factor of pocket residues  : 0.7690
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.4482
+HEADER 10  -Pocket volume (convex hull)       : 1.3491
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    123  OG1 THR A 118       8.693  35.120  24.262  0.78  7.50           O 0
+ATOM    271   CB HIS A 138       3.678  36.303  23.623  0.00  0.00           C 0
+ATOM    122   CB THR A 118       8.509  34.614  25.594  0.00  0.00           C 0
+ATOM    124  CG2 THR A 118       9.208  35.541  26.545  0.00  0.00           C 0
+ATOM    268   CA HIS A 138       3.578  37.782  23.295  0.00  0.00           C 0
+ATOM    264    O SER A 137       3.586  40.495  23.501  0.00  0.00           O 0
+ATOM    298   CB SER A 141       5.209  40.801  20.141  0.00  0.00           C 0
+ATOM    274  CD2 HIS A 138       5.681  35.387  22.276  0.00  0.00           C 0
+ATOM    267    N HIS A 138       2.989  38.518  24.404  0.00  0.00           N 0
+ATOM    265   CB SER A 137       3.653  40.799  26.671  0.00  0.00           C 0
+ATOM    244    O MET A 134       2.926  36.447  26.448  0.53  1.07           O 0
+ATOM    299   OG SER A 141       4.636  39.528  19.863  0.78  2.14           O 0
+ATOM    245   CB MET A 134       3.956  35.576  29.221  0.00  0.00           C 0
+ATOM    263    C SER A 137       3.085  39.848  24.429  0.00  0.00           C 0
+ATOM    242   CA MET A 134       2.918  36.590  28.811  0.00  0.00           C 0
+TER
+END

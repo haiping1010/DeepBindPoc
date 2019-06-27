@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0398
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5757
+HEADER 5  - Mean B-factor of pocket residues  : 0.6500
+HEADER 6  - Hydrophobicity Score              : 24.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.2340
+HEADER 10  -Pocket volume (convex hull)       : 2.4061
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM    788   CG ARG A 222     195.063 -89.143 243.911  0.00  0.00           C 0
+ATOM    693   OH TYR A 210     191.403 -88.779 241.900  0.26  5.36           O 0
+ATOM    467    O GLU A 182     190.889 -83.858 241.609  0.00  0.00           O 0
+ATOM    465   CA GLU A 182     191.855 -83.526 239.446  0.00  0.00           C 0
+ATOM    786    O ARG A 222     196.302 -89.831 241.034  0.55  3.21           O 0
+ATOM    825   OG SER A 226     199.343 -86.233 239.313  0.33  9.64           O 0
+ATOM    824   CB SER A 226     198.672 -87.436 238.973  0.00  0.00           C 0
+ATOM    832  CG2 THR A 227     198.249 -82.836 235.890  0.00  0.00           C 0
+ATOM    461    O CYS A 181     193.370 -84.666 237.401  0.45  3.21           O 0
+ATOM    468   CB GLU A 182     192.486 -82.139 239.304  0.00  0.00           C 0
+ATOM    821   CA SER A 226     197.661 -87.182 237.859  0.00  0.00           C 0
+ATOM    815    O LEU A 225     195.047 -87.100 237.118  0.74  1.07           O 0
+ATOM    816   CB LEU A 225     193.405 -89.289 238.061  0.00  0.00           C 0
+ATOM    826    N THR A 227     198.825 -85.502 236.570  0.00  0.00           N 0
+TER
+END

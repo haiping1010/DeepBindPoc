@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0672
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9561
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4339
+HEADER 5  - Mean B-factor of pocket residues  : 0.5093
+HEADER 6  - Hydrophobicity Score              : 14.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.3749
+HEADER 10  -Pocket volume (convex hull)       : 5.3442
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   4202   CB ASP B 351     -15.435  18.115 -38.792  0.00  0.00           C 0
+ATOM   1346  OE1 GLN A 387     -16.365  11.068 -42.786  0.60  3.21           O 0
+ATOM   1347  NE2 GLN A 387     -14.122  10.983 -42.795  0.00  0.00           N 0
+ATOM   4205  OD2 ASP B 351     -13.423  17.217 -37.841  0.49  8.57           O 0
+ATOM   4200    C ASP B 351     -17.277  16.818 -37.637  0.00  0.00           C 0
+ATOM   1354   CD PRO A 388     -16.109   8.691 -38.174  0.00  0.00           C 0
+ATOM   1345   CD GLN A 387     -15.318  10.415 -42.800  0.00  0.00           C 0
+ATOM   4201    O ASP B 351     -18.280  16.277 -38.131  0.70  9.64           O 0
+ATOM   4212  CG2 VAL B 352     -14.395  14.198 -35.723  0.00  0.00           C 0
+ATOM   1302  CG1 VAL A 381     -12.773   7.947 -39.411  0.00  0.00           C 0
+ATOM   1303  CG2 VAL A 381     -10.345   8.464 -38.776  0.00  0.00           C 0
+ATOM   1274   CB HIS A 378     -12.250  11.266 -34.514  0.00  0.00           C 0
+ATOM   4207   CA VAL B 352     -16.772  14.873 -36.206  0.00  0.00           C 0
+ATOM   4206    N VAL B 352     -16.562  16.253 -36.650  0.00  0.00           N 0
+ATOM   1363  NE2 GLN A 389     -18.978  11.199 -41.200  0.71  7.66           N 0
+ATOM   1362  OE1 GLN A 389     -18.864   9.809 -39.418  0.00  0.00           O 0
+ATOM   1353   CG PRO A 388     -16.696   9.079 -36.836  0.00  0.00           C 0
+ATOM   4213    N VAL B 353     -18.732  13.457 -35.865  0.86  2.19           N 0
+TER
+END

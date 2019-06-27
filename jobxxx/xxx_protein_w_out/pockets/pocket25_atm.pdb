@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0014
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6816
+HEADER 5  - Mean B-factor of pocket residues  : 0.1711
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3680
+HEADER 10  -Pocket volume (convex hull)       : 5.3444
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   3218  CG1 VAL A 409      37.465  56.843  47.520  0.00  0.00           C 0
+ATOM   3219  CG2 VAL A 409      35.848  57.317  49.401  0.00  0.00           C 0
+ATOM   3181   CB HIS A 406      31.341  55.761  45.660  0.00  0.00           C 0
+ATOM   3261  OE1 GLU A 415      34.855  53.833  52.198  0.00  0.00           O 0
+ATOM   3178   CA HIS A 406      31.890  56.800  46.640  0.00  0.00           C 0
+ATOM   3175  CG1 VAL A 405      32.505  56.607  51.263  0.00  0.00           C 0
+ATOM   3217   CB VAL A 409      36.183  57.562  47.933  0.00  0.00           C 0
+ATOM   3177    N HIS A 406      31.042  56.865  47.827  0.00  0.00           N 0
+ATOM   3174   CB VAL A 405      30.988  56.590  51.134  0.00  0.00           C 0
+ATOM   3147   CB ARG A 402      29.639  52.735  52.377  0.00  0.00           C 0
+ATOM   3180    O HIS A 406      33.024  58.442  45.311  0.51  6.43           O 0
+ATOM   3220    N GLY A 410      35.717  59.496  45.321  0.72  1.09           N 0
+ATOM   3221   CA GLY A 410      36.019  59.755  43.926  0.00  0.00           C 0
+ATOM   3146    O ARG A 402      28.305  54.574  50.779  0.38  6.43           O 0
+TER
+END

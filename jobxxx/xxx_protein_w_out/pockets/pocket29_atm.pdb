@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0277
+HEADER 1  - Drug Score                        : 0.0210
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9507
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5308
+HEADER 5  - Mean B-factor of pocket residues  : 0.5888
+HEADER 6  - Hydrophobicity Score              : 21.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.6192
+HEADER 10  -Pocket volume (convex hull)       : 5.9689
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5600
+ATOM  17215   CB ASP F 352     -10.091  56.983  76.104  0.00  0.00           C 0
+ATOM  17294   OG SER F 373     -13.003  59.890  82.997  0.72  7.50           O 0
+ATOM  17293   CB SER F 373     -14.399  59.779  82.773  0.00  0.00           C 0
+ATOM  17290   CA SER F 373     -14.846  58.316  82.734  0.00  0.00           C 0
+ATOM  17225  CG2 VAL F 353      -8.650  59.639  79.348  0.00  0.00           C 0
+ATOM  17218  OD2 ASP F 352     -11.457  55.060  76.466  0.00  0.00           O 0
+ATOM  17193   CA GLY F 349      -8.240  54.657  79.484  0.00  0.00           C 0
+ATOM  17295    N ILE F 374     -13.236  56.787  83.720  0.55  2.19           N 0
+ATOM  17310  CD2 PHE F 375      -8.897  58.299  82.709  0.00  0.00           C 0
+ATOM  17301  CG2 ILE F 374     -12.888  53.915  83.496  0.00  0.00           C 0
+ATOM  17192    N GLY F 349      -8.184  53.264  79.076  0.00  0.00           N 0
+ATOM  17302  CD1 ILE F 374      -9.844  53.949  83.017  0.00  0.00           C 0
+ATOM  17300  CG1 ILE F 374     -10.693  55.132  83.428  0.00  0.00           C 0
+ATOM  17312  CE2 PHE F 375      -8.108  57.387  82.035  0.00  0.00           C 0
+ATOM  17163    O GLU F 345      -8.851  51.320  81.252  0.40  1.07           O 0
+ATOM  17188   CG GLN F 348     -10.483  51.377  76.732  0.00  0.00           C 0
+ATOM  17165   CG GLU F 345     -11.139  50.357  83.653  0.00  0.00           C 0
+ATOM  17161   CA GLU F 345      -9.490  49.166  82.109  0.00  0.00           C 0
+ATOM  17187   CB GLN F 348      -9.367  50.740  77.548  0.00  0.00           C 0
+TER
+END

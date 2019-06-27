@@ -11,6 +11,10 @@ from rdkit.Chem import PandasTools
 from mol2vec.features import mol2alt_sentence, MolSentence, DfVec, sentences2vec
 ##from mol2vec.helpers import depict_identifier, plot_2D_vectors, IdentifierTable, mol_to_svg
 
+path = sys.argv[1]
+
+
+
 aa_smis = ['CC(N)C(=O)O', 'N=C(N)NCCCC(N)C(=O)O', 'NC(=O)CC(N)C(=O)O', 'NC(CC(=O)O)C(=O)O',
           'NC(CS)C(=O)O', 'NC(CCC(=O)O)C(=O)O', 'NC(=O)CCC(N)C(=O)O', 'NCC(=O)O',
           'NC(Cc1cnc[nH]1)C(=O)O', 'CCC(C)C(N)C(=O)O', 'CC(C)CC(N)C(=O)O', 'NCCCCC(N)C(=O)O',
@@ -23,7 +27,7 @@ aa_codes = ['ALA', 'ARG', 'ASN', 'ASP', 'CYS', 'GLU', 'GLN', 'GLY', 'HIS', 'ILE'
 aas = [Chem.MolFromSmiles(x) for x in aa_smis]
 
 from gensim.models import word2vec
-model = word2vec.Word2Vec.load('/share/home/zhanghaiping/program/mol2vec/examples/models/model_300dim.pkl')
+model = word2vec.Word2Vec.load(path+'/model/model_300dim.pkl')
 aa_sentences = [mol2alt_sentence(x, 1) for x in aas]
 aalist={}
 index=0
@@ -45,9 +49,9 @@ for name in aa_codes:
 
 
 
-if len(sys.argv) <1 :
-   print("python python2_L.py xxx")
-filebase=sys.argv[1]
+if len(sys.argv) <2 :
+   print("python python2_L.py  model_path   name")
+filebase=sys.argv[2]
 ##filebase=file.replace(".pdb","")
 print(filebase)
 pocVec= np.zeros(300)

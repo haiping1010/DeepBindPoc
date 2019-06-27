@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0003
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4313
+HEADER 5  - Mean B-factor of pocket residues  : 0.3699
+HEADER 6  - Hydrophobicity Score              : -23.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.7182
+HEADER 10  -Pocket volume (convex hull)       : 5.6952
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM   1593    N THR A 760       8.363 -42.916  13.588  0.62  4.37           N 0
+ATOM   1590   CB PRO A 759       9.673 -40.675  15.516  0.00  0.00           C 0
+ATOM   3988  ND2 ASN A1044      13.750 -46.323  14.890  0.00  0.00           N 0
+ATOM   1587   CA PRO A 759       9.570 -40.842  13.997  0.00  0.00           C 0
+ATOM   1582    O PRO A 758       9.714 -40.139  11.334  0.48  9.64           O 0
+ATOM   1598  OG1 THR A 760       8.767 -45.336  12.202  0.41  5.36           O 0
+ATOM   3987  OD1 ASN A1044      15.303 -44.974  15.787  0.23  7.50           O 0
+ATOM   3972   CB PRO A1042      10.442 -43.884  20.322  0.00  0.00           C 0
+ATOM   3973   CG PRO A1042      11.587 -43.298  21.063  0.00  0.00           C 0
+ATOM   3978    O SER A1043      12.101 -46.570  17.053  0.73  2.14           O 0
+ATOM   1596    O THR A 760       6.376 -43.618  15.456  0.60  1.07           O 0
+ATOM   1615  OE2 GLU A 762       7.710 -46.068  18.819  0.26  1.07           O 0
+ATOM   3980   OG SER A1043       9.390 -47.742  16.644  0.75  6.43           O 0
+ATOM   1817  NH2 ARG A 786       7.920 -41.411  18.448  0.88  5.47           N 0
+ATOM   1576    O SER A 757      12.344 -37.910  11.533  0.00  0.00           O 0
+TER
+END

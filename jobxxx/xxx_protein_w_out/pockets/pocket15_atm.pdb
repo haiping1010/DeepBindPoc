@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0429
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8248
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5304
+HEADER 5  - Mean B-factor of pocket residues  : 0.2931
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 249.3264
+HEADER 10  -Pocket volume (convex hull)       : 8.3387
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.7143
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM   2576   CB VAL A 328      16.086  95.052  80.984  0.00  0.00           C 0
+ATOM   2551    O PRO A 325      16.186  97.551  83.406  0.00  0.00           O 0
+ATOM   2585  OD1 ASN A 329      18.359  94.706  85.205  0.00  0.00           O 0
+ATOM   2549   CA PRO A 325      17.284  99.169  82.035  0.00  0.00           C 0
+ATOM   2773  CG1 VAL A 353      20.209  94.696  78.706  0.00  0.00           C 0
+ATOM   2552   CB PRO A 325      18.557  99.762  82.657  0.00  0.00           C 0
+ATOM   2772   CB VAL A 353      21.332  94.003  79.479  0.00  0.00           C 0
+ATOM   2553   CG PRO A 325      19.022 100.772  81.659  0.00  0.00           C 0
+ATOM   2577  CG1 VAL A 328      16.820  93.734  80.759  0.00  0.00           C 0
+ATOM   2774  CG2 VAL A 353      20.789  92.852  80.324  0.00  0.00           C 0
+ATOM   2771    O VAL A 353      23.698  95.467  78.142  0.00  0.00           O 0
+ATOM   2786  CD1 ILE A 355      18.479  98.902  77.952  0.00  0.00           C 0
+ATOM   2779    N ILE A 355      21.425  97.682  74.985  0.65  6.56           N 0
+ATOM   2784  CG1 ILE A 355      19.027  98.175  76.700  0.00  0.00           C 0
+ATOM   2783   CB ILE A 355      19.498  99.131  75.600  0.00  0.00           C 0
+ATOM   2806   OH TYR A 357      19.363 104.969  76.975  0.56  3.21           O 0
+ATOM   2554   CD PRO A 325      17.762 101.377  81.105  0.00  0.00           C 0
+TER
+END

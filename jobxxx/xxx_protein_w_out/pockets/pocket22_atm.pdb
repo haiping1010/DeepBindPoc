@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0144
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7310
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4556
+HEADER 5  - Mean B-factor of pocket residues  : 0.6179
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.0508
+HEADER 10  -Pocket volume (convex hull)       : 15.7685
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   2267    O ALA A 289       8.504  89.680  78.954  0.76  2.14           O 0
+ATOM   2268   CB ALA A 289       7.429  92.093  80.908  0.00  0.00           C 0
+ATOM   2266    C ALA A 289       8.049  90.824  78.831  0.00  0.00           C 0
+ATOM   2274   CG GLU A 290       4.174  90.757  77.242  0.00  0.00           C 0
+ATOM   2300  ND2 ASN A 293       6.461  84.896  79.425  0.50  9.84           N 0
+ATOM   2270   CA GLU A 290       6.644  90.116  76.981  0.00  0.00           C 0
+ATOM   2297   CB ASN A 293       8.271  86.365  78.784  0.00  0.00           C 0
+ATOM   2595    O ALA A 331      11.532  89.173  83.887  0.68  1.07           O 0
+ATOM   2622  CG1 ILE A 335      10.843  86.573  82.165  0.00  0.00           C 0
+ATOM   2647   CD LYS A 338       5.841  83.932  85.471  0.00  0.00           C 0
+ATOM   2616  CG2 THR A 334       7.454  87.752  85.837  0.00  0.00           C 0
+ATOM   2648   CE LYS A 338       4.720  84.625  86.225  0.00  0.00           C 0
+ATOM   2298   CG ASN A 293       7.777  85.084  79.416  0.00  0.00           C 0
+ATOM   2299  OD1 ASN A 293       8.567  84.273  79.897  0.52  3.21           O 0
+ATOM   2614   CB THR A 334       8.632  88.645  86.190  0.00  0.00           C 0
+ATOM   2615  OG1 THR A 334       8.167  89.752  86.972  0.00  0.00           O 0
+TER
+END

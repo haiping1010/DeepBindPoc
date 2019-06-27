@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0318
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0345
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5457
+HEADER 5  - Mean B-factor of pocket residues  : 0.6987
+HEADER 6  - Hydrophobicity Score              : 34.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.9822
+HEADER 10  -Pocket volume (convex hull)       : 17.0022
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   3420    O VAL A 435      26.969  71.034  82.443  0.00  0.00           O 0
+ATOM   2709  OD2 ASP A 345      27.524  72.546  90.140  0.00  0.00           O 0
+ATOM   2438   CE LYS A 311      23.918  71.883  85.723  0.00  0.00           C 0
+ATOM   3431    O VAL A 437      26.566  66.809  84.321  0.70  7.50           O 0
+ATOM   3411    O GLU A 434      29.046  68.061  82.485  0.00  0.00           O 0
+ATOM   3423  CG2 VAL A 435      30.498  71.304  79.450  0.00  0.00           C 0
+ATOM   3412   CB GLU A 434      31.107  66.604  80.360  0.00  0.00           C 0
+ATOM   2055   OH TYR A 262      34.622  74.087  82.423  0.00  0.00           O 0
+ATOM   3410    C GLU A 434      29.215  67.970  81.263  0.00  0.00           C 0
+ATOM   3418   CA VAL A 435      28.753  70.332  80.991  0.00  0.00           C 0
+ATOM   3430    C VAL A 437      25.384  66.931  84.645  0.00  0.00           C 0
+ATOM   2702    N ASP A 345      27.643  75.452  87.457  0.00  0.00           N 0
+ATOM   2699   CB VAL A 344      27.758  75.466  84.260  0.00  0.00           C 0
+ATOM   2437   CD LYS A 311      24.406  72.411  84.378  0.00  0.00           C 0
+ATOM   2696   CA VAL A 344      26.617  75.690  85.266  0.00  0.00           C 0
+ATOM   2718  NE1 TRP A 346      31.609  74.646  84.842  0.00  0.00           N 0
+ATOM   3422  CG1 VAL A 435      28.804  72.806  80.529  0.00  0.00           C 0
+ATOM   2716  CD1 TRP A 346      31.748  74.968  86.169  0.00  0.00           C 0
+ATOM   2706   CB ASP A 345      28.412  74.705  89.664  0.00  0.00           C 0
+TER
+END
