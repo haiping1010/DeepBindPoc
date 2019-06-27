@@ -1,12 +1,24 @@
+1. single mode
+##assumes your protein and ligand files are in the jobxxx folder and named as xxx_protein.pdb, xxx_ligand.pdb, respectively
 
-1. the fpocket was used to generate the decoy pocket of protein PDB (bash  run_all.bash;bash run_poc.bash) (befor do the pocket extract make sure the PDB is without ligand and water, only contain protein atoms)
-2. the ligand and pocket are converted into vector by mol2vec (cd all_known_pocket/;bash bach_mol2vec.bash ; bash run_poc_vec.bash; cd ../)
+bash test.sh  xxx  jobxxx
+
+2. batch mode
+##assumes your protein and ligand files are in jobyyy/yyy.zip
+
+bash test.sh  yyy  jobyyy
+
+
+3. two pocket example
+
+1). the fpocket was used to generate the decoy pocket of protein PDB (bash  run_all.bash;bash run_poc.bash) (befor do the pocket extract make sure the PDB is without ligand and water, only contain protein atoms)
+2). the ligand and pocket are converted into vector by mol2vec (cd all_known_pocket/;bash bach_mol2vec.bash ; bash run_poc_vec.bash; cd ../)
 
 
 
-3. the vector of ligand and pocket are concatnated into one vector. And saved into file mp_data/pos.h5. (mkdir mp_data; python data_process_all_test.py all_known_pocket  mp_data).  The all_known_pocket is the place where your ligand vector file; The mp_data is where your output folder.
+3). the vector of ligand and pocket are concatnated into one vector. And saved into file mp_data/pos.h5. (mkdir mp_data; python data_process_all_test.py all_known_pocket  mp_data).  The all_known_pocket is the place where your ligand vector file; The mp_data is where your output folder.
 
-4. the deep_dense_FC_load_n.py  script was used to load the model and do the prediction.
+4). the deep_dense_FC_load_n.py  script was used to load the model and do the prediction.
 
 
 other script that may help:
