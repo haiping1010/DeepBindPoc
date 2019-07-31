@@ -1,7 +1,7 @@
 #!/bin/sh
-####################  bash test_batch.sh  yyy  jobs/jobyyy   ###############
+####################  bash test_batch.sh  yyy   jobyyy   ###############
 
-CHANGEDIR="."
+CHANGEDIR=`pwd`
 
 prot_ligands=$1
 

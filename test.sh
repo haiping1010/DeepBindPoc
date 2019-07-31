@@ -1,7 +1,7 @@
 #!/bin/sh
-####################  bash test.sh  xxx  jobs/jobxxx   ###############
+####################  bash test.sh  xxx  jobxxx   ###############
 
-CHANGEDIR="."
+CHANGEDIR=`pwd`
 
 prot=$1
 ligand=$1
@@ -12,7 +12,7 @@ echo $prot
 
 #################generate pocket###########
 cd $path
-
+rm -rf  *.csv
 grep  -r "ATOM\|TER\|END" $prot'_protein.pdb' > $prot'_protein_w.pdb'
 
 fpocket -f  $prot'_protein_w.pdb'

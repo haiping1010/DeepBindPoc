@@ -1,3 +1,6 @@
+All the result below are using the normalize by training A (normalize strategy 1)
+
+
 1. single mode
 ##assumes your protein and ligand files are in the jobxxx folder and named as xxx_protein.pdb, xxx_ligand.pdb, respectively
 

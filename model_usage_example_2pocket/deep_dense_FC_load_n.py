@@ -147,6 +147,14 @@ test_X = test_pos_samples.astype(np.float64)
 
 
 
+def preprocess_data_train(data_set):
+    mean = -0.5696
+    std = 30.8744
+    t = data_set
+    t -= mean
+    t /= std
+    return t
+
 
 def preprocess_data(data_set):
     mean = np.mean(data_set)
@@ -188,7 +196,7 @@ def assess(model, X, label, thre = 0.5):
 
 
 
-test_X = preprocess_data(test_X)
+test_X = preprocess_data_train(test_X)
 
 
 
